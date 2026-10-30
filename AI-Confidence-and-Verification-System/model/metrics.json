@@ -1,0 +1,67 @@
+{
+  "trained_at": "2026-10-30T07:17:55+00:00",
+  "dataset": "training_data.csv",
+  "train_size": 180,
+  "labels": [
+    "Finance",
+    "Geography",
+    "Health",
+    "Science",
+    "Technology"
+  ],
+  "samples_per_label": {
+    "Finance": 36,
+    "Geography": 36,
+    "Health": 36,
+    "Science": 36,
+    "Technology": 36
+  },
+  "cross_validation_folds": 5,
+  "cross_validation_accuracy": 0.8222,
+  "cross_validation_scores": [
+    0.75,
+    0.8889,
+    0.8056,
+    0.8889,
+    0.7778
+  ],
+  "training_accuracy": 1.0,
+  "top_features_per_label": {
+    "Finance": [
+      "company",
+      "market",
+      "bank",
+      "investors",
+      "budget"
+    ],
+    "Geography": [
+      "river",
+      "capital",
+      "city",
+      "continent",
+      "map"
+    ],
+    "Health": [
+      "patient",
+      "health",
+      "disease",
+      "patients",
+      "diet"
+    ],
+    "Science": [
+      "experiment",
+      "energy",
+      "chemical",
+      "organisms",
+      "heat"
+    ],
+    "Technology": [
+      "network",
+      "data",
+      "software",
+      "code",
+      "user"
+    ]
+  },
+  "note": "Accuracy is measured on a tiny synthetic sample dataset. It describes topic-classification skill only, not factual reliability."
+}

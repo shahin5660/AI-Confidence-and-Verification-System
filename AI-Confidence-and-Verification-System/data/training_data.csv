@@ -1,0 +1,181 @@
+text,label
+"The chemical reaction between hydrogen and oxygen produces water.",Science
+"Photosynthesis allows plants to convert sunlight into chemical energy.",Science
+"Gravity causes objects with mass to attract one another.",Science
+"Newton's laws describe the motion of bodies under applied forces.",Science
+"The periodic table organizes chemical elements by atomic number.",Science
+"Electrons occupy discrete energy levels around the nucleus.",Science
+"DNA carries genetic information in living organisms.",Science
+"A controlled experiment tests a hypothesis against a control group.",Science
+"Friction converts kinetic energy into heat in sliding surfaces.",Science
+"The speed of light in a vacuum is a fundamental constant of physics.",Science
+"Cells are the basic structural unit of all living organisms.",Science
+"Enzymes catalyse biochemical reactions by lowering activation energy.",Science
+"Seismic waves from an earthquake travel through the Earth's crust.",Science
+"Thermodynamics studies heat, work, and internal energy.",Science
+"Molecules diffuse from regions of high concentration to low concentration.",Science
+"The microscope reveals the structure of microscopic organisms.",Science
+"Evolution by natural selection changes allele frequencies over generations.",Science
+"Acids donate protons when dissolved in aqueous solution.",Science
+"Neutrons and protons form the atomic nucleus.",Science
+"The solar system formed from a rotating cloud of gas and dust.",Science
+"Catalysts speed up reactions without being consumed.",Science
+"Chemical bonds break and form during a reaction.",Science
+"Bacteria are single-celled microorganisms studied in microbiology.",Science
+"Osmosis moves water across a semipermeable membrane.",Science
+"The boiling point of a liquid depends on the surrounding pressure.",Science
+"Electrical charge flows through a conductor as an electric current.",Science
+"Genes are inherited from parents and code for proteins.",Science
+"A vacuum flask reduces heat transfer by conduction and convection.",Science
+"Python is a high-level programming language with readable syntax.",Technology
+"The application stores user records in a relational database.",Technology
+"Machine learning models learn patterns from training data.",Technology
+"An API lets two software services exchange data over HTTP.",Technology
+"The developer deployed the microservice to a cloud server.",Technology
+"A compiler translates source code into machine instructions.",Technology
+"Encryption protects network traffic from unauthorised interception.",Technology
+"The operating system schedules processes and manages memory.",Technology
+"A neural network consists of layers of connected artificial neurons.",Technology
+"Git tracks changes to source code in a version control repository.",Technology
+"The mobile app renders its user interface with a framework.",Technology
+"Cloud storage replicates files across multiple data centres.",Technology
+"A unit test verifies that a function returns the expected output.",Technology
+"The website uses HTML and CSS for layout and styling.",Technology
+"Authentication verifies the identity of a user logging in.",Technology
+"The server responds to HTTP requests with JSON payloads.",Technology
+"Software engineers debug the program to fix runtime errors.",Technology
+"A firewall filters incoming packets on the network.",Technology
+"Containers package an application with its dependencies.",Technology
+"Machine learning inference runs the trained model on new input.",Technology
+"The codebase contains reusable functions and modules.",Technology
+"Latency measures how quickly the service answers a request.",Technology
+"The keyboard and monitor are common computer peripherals.",Technology
+"Backups protect the database from accidental data loss.",Technology
+"The smartphone runs applications written in Kotlin or Swift.",Technology
+"A router forwards traffic between different networks.",Technology
+"Streaming video requires sufficient network bandwidth.",Technology
+"The programmer refactored the function to remove duplicate code.",Technology
+"Adults should sleep seven to nine hours each night for good health.",Health
+"Regular aerobic exercise strengthens the heart and lungs.",Health
+"A balanced diet includes fruit, vegetables, and whole grains.",Health
+"Vaccines train the immune system to recognise pathogens.",Health
+"Dehydration causes headaches and fatigue during hot weather.",Health
+"Washing hands with soap reduces the spread of infection.",Health
+"Doctors prescribe antibiotics to treat bacterial infections.",Health
+"Smoking increases the risk of lung disease and cancer.",Health
+"Wearing a seatbelt lowers the risk of injury in a car crash.",Health
+"Mental wellbeing improves with social connection and rest.",Health
+"Blood pressure measures the force of blood against artery walls.",Health
+"The nurse checked the patient's temperature and pulse.",Health
+"Sunlight helps the skin synthesise vitamin D.",Health
+"A physiotherapist helps patients recover movement after injury.",Health
+"Diarrhoea in children can be treated with oral rehydration solution.",Health
+"Physical activity lowers the risk of type two diabetes.",Health
+"A healthy diet supplies essential vitamins and minerals.",Health
+"Stress management techniques include breathing exercises and meditation.",Health
+"The clinic screened patients for high cholesterol.",Health
+"Eating too much salt raises blood pressure.",Health
+"Brushing teeth twice a day prevents dental decay.",Health
+"The immune system defends the body against infection.",Health
+"Sleep deprivation impairs concentration and memory.",Health
+"Hand hygiene protects healthcare workers and patients.",Health
+"Moderate exercise improves mood and energy levels.",Health
+"The patient recovered after surgery and physiotherapy.",Health
+"Alcohol consumption in pregnancy harms fetal development.",Health
+"Drinking clean water prevents waterborne disease.",Health
+"The Amazon river flows through Brazil and Peru.",Geography
+"Mount Everest is the highest mountain above sea level.",Geography
+"The Sahara desert covers much of northern Africa.",Geography
+"France is a country in western Europe with a capital city.",Geography
+"The Pacific Ocean is the largest ocean on Earth.",Geography
+"Tokyo is the capital city of Japan.",Geography
+"The Nile flows northward through Egypt to the Mediterranean.",Geography
+"Australia is both a continent and an island nation.",Geography
+"The Andes mountain range runs along western South America.",Geography
+"The equator divides the Earth into northern and southern hemispheres.",Geography
+"Canada borders the United States to the south.",Geography
+"The capital of Kenya is Nairobi.",Geography
+"Volcanoes form where tectonic plates meet or diverge.",Geography
+"The Ganges river is sacred to many people in India.",Geography
+"Iceland sits on the Mid-Atlantic Ridge and has many volcanoes.",Geography
+"The continent of Antarctica is covered by ice sheets.",Geography
+"River deltas form where sediment is deposited at a river mouth.",Geography
+"The Himalayan mountains were formed by continental collision.",Geography
+"Latitude and longitude specify a location on a map.",Geography
+"The Mediterranean Sea lies between Europe and Africa.",Geography
+"Brazil is the largest country in South America.",Geography
+"The capital of Germany is Berlin.",Geography
+"Rainforests in the Congo basin host diverse wildlife.",Geography
+"The Yangtze is the longest river in China.",Geography
+"Coastal erosion reshapes beaches and cliffs over time.",Geography
+"The Great Barrier Reef lies off the coast of Queensland.",Geography
+"Mountain glaciers feed rivers during the dry season.",Geography
+"The city of Cairo stands on the banks of the Nile.",Geography
+"The stock market lets investors buy and sell company shares.",Finance
+"A budget tracks monthly income and household expenses.",Finance
+"Compound interest grows savings faster over a long horizon.",Finance
+"The central bank sets the interest rate to control inflation.",Finance
+"Diversifying a portfolio reduces exposure to a single asset.",Finance
+"A mortgage is a loan secured against property.",Finance
+"Inflation erodes the purchasing power of money over time.",Finance
+"The company reported quarterly profit and revenue growth.",Finance
+"Investors assess risk and return before buying assets.",Finance
+"A bank account pays interest on deposited savings.",Finance
+"Credit card debt accumulates high interest charges.",Finance
+"The balance sheet lists assets, liabilities, and equity.",Finance
+"An emergency fund covers unexpected expenses.",Finance
+"Bonds pay the holder fixed interest until maturity.",Finance
+"The exchange rate determines the price of foreign currency.",Finance
+"Tax is deducted from income before the salary is paid.",Finance
+"A pension fund invests contributions for retirement.",Finance
+"The insurer charges a monthly premium for coverage.",Finance
+"Financial statements show cash flow and profitability.",Finance
+"Saving a portion of each salary builds long-term wealth.",Finance
+"Asset prices rise and fall with market sentiment.",Finance
+"The accountant reconciled the company's bank records.",Finance
+"Loan repayment reduces the outstanding principal.",Finance
+"An index fund tracks a broad market benchmark.",Finance
+"The finance team prepared the annual budget forecast.",Finance
+"Higher interest rates make borrowing more expensive.",Finance
+"Shares pay dividends to shareholders from company profits.",Finance
+"Investors analyse earnings reports before trading.",Finance
+"The scientific experiment measured the reaction rate in the laboratory.",Science
+"Research in physics examines the behaviour of atoms and molecules.",Science
+"The biology laboratory studies the structure of cells and tissue.",Science
+"The scientist recorded the result of the chemistry experiment.",Science
+"Scientific research tests a hypothesis with a controlled experiment.",Science
+"The laboratory analysis measured the concentration of the solution.",Science
+"The physics experiment measured the force on the moving object.",Science
+"The research team published a scientific paper on genetics.",Science
+"The software system processes user data on a remote server.",Technology
+"The development team fixed a bug in the application code.",Technology
+"The computer network connects users to the cloud database.",Technology
+"The programmer wrote a script to automate the data backup.",Technology
+"The application stores the user profile in the database.",Technology
+"The software update improves network security for users.",Technology
+"The developer tested the code before the release.",Technology
+"The system administrator installed the software on the server.",Technology
+"The doctor treated the patient for a chronic disease at the health clinic.",Health
+"Public health programs encourage regular medical checkups for adults.",Health
+"The patient's medical record lists allergies and current medication.",Health
+"Nurses monitor the patient's vital signs after surgery.",Health
+"Regular health screening detects disease before symptoms appear.",Health
+"The doctor advised the patient to reduce sugar in the diet.",Health
+"Medical treatment for asthma includes inhaled medication.",Health
+"The health centre offers vaccination and family planning services.",Health
+"The geography of the region includes mountains, rivers, and coastal land.",Geography
+"The map shows the country and its capital city.",Geography
+"The region has a dry climate and a large desert area.",Geography
+"The country borders two oceans and covers a wide land area.",Geography
+"The city grew along the river in the northern region.",Geography
+"The continent includes many countries and diverse landscapes.",Geography
+"The map shows the border between the two countries.",Geography
+"The island nation has a mountainous interior and coastal plains.",Geography
+"The finance team reviewed the investment plan and the budget.",Finance
+"The company's financial report shows profit and cash flow.",Finance
+"The bank charges a fee on the loan and the mortgage.",Finance
+"Investors put money into the stock market each month.",Finance
+"The financial adviser explained the cost of the investment.",Finance
+"The business saved money by reducing operating costs.",Finance
+"The market price of the asset rose after the earnings report.",Finance
+"The finance department manages the company budget and spending.",Finance
